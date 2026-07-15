@@ -1,0 +1,5 @@
+# Netlify configuration file for subdirectory Next.js build
+[build]
+  base = "frontend"
+  command = "npm run build"
+  publish = "out"
