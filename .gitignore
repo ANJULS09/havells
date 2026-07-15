@@ -1,0 +1,31 @@
+# Python environment and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Relational & Vector Databases (Local stores)
+*.db
+*.sqlite3
+voice_cve.db
+voice_cve_vectors.json
+
+# Next.js / Node node_modules and build artifacts
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+out/
+frontend/out/
+
+# System and logs
+*.log
+.DS_Store
+Thumbs.db
+
+# Environment secret configurations
+.env
+.env*.local

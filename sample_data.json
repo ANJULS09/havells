@@ -1,0 +1,102 @@
+[
+  {
+    "product_name": "Havells Stealth Air Premium Ceiling Fan",
+    "category": "Fans",
+    "rating": 4,
+    "date": "2026-03-10",
+    "source": "Amazon",
+    "verified_purchase": true,
+    "helpful_votes": 12,
+    "raw_text": "The fan looks great and the premium look fits my living room perfectly. However, the motor makes a low humming noise when run at full speed. Sturdy build overall."
+  },
+  {
+    "product_name": "Havells Stealth Air Premium Ceiling Fan",
+    "category": "Fans",
+    "rating": 2,
+    "date": "2026-03-15",
+    "source": "Amazon",
+    "verified_purchase": true,
+    "helpful_votes": 3,
+    "raw_text": "Very noisy motor. It makes a loud clicking sound. The look is premium but what is the point if I cannot sleep because of the noise? Disappointed."
+  },
+  {
+    "product_name": "Havells Stealth Air Premium Ceiling Fan",
+    "category": "Fans",
+    "rating": 5,
+    "date": "2026-04-01",
+    "source": "Flipkart",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "raw_text": "Havells did a great job. Absolutely silent fan. Easy to install, took only 15 minutes. High speed delivery by Flipkart."
+  },
+  {
+    "product_name": "Havells Stealth Air Premium Ceiling Fan",
+    "category": "Fans",
+    "rating": 3,
+    "date": "2026-04-12",
+    "source": "Amazon",
+    "verified_purchase": false,
+    "helpful_votes": 0,
+    "raw_text": "design to badhiya hai par speed thodi kam lagti hai. Motor noise is quiet but blades could be wider. Packing was slightly torn."
+  },
+  {
+    "product_name": "Havells Adonia Spin 25L Water Heater",
+    "category": "Water Heaters",
+    "rating": 5,
+    "date": "2026-03-05",
+    "source": "Flipkart",
+    "verified_purchase": true,
+    "helpful_votes": 5,
+    "raw_text": "Water gets hot really fast, less than 5 minutes. The digital display looks very futuristic. Installation was free and neat."
+  },
+  {
+    "product_name": "Havells Adonia Spin 25L Water Heater",
+    "category": "Water Heaters",
+    "rating": 1,
+    "date": "2026-03-20",
+    "source": "Amazon",
+    "verified_purchase": true,
+    "helpful_votes": 24,
+    "raw_text": "Worst experience. Within 2 weeks, heating stopped working. Heating element defective. Customer service was unhelpful and kept delaying the repair. Do not buy!"
+  },
+  {
+    "product_name": "Havells Adonia Spin 25L Water Heater",
+    "category": "Water Heaters",
+    "rating": 4,
+    "date": "2026-04-05",
+    "source": "Amazon",
+    "verified_purchase": true,
+    "helpful_votes": 2,
+    "raw_text": "Good heater, gets water hot quickly. However, delivery was late by 3 days and the outer box was completely crushed. Inside unit was safe though."
+  },
+  {
+    "product_name": "Havells Freshia AP-40 Air Purifier",
+    "category": "Air Purifiers",
+    "rating": 5,
+    "date": "2026-03-01",
+    "source": "Amazon",
+    "verified_purchase": true,
+    "helpful_votes": 15,
+    "raw_text": "Excellent air purifier. Filtered all the dust and pet dander from the room. Very silent sleep mode. Sleek design."
+  },
+  {
+    "product_name": "Havells Freshia AP-40 Air Purifier",
+    "category": "Air Purifiers",
+    "rating": 2,
+    "date": "2026-04-18",
+    "source": "Flipkart",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "raw_text": "The air purifier operates well but the body is cheap plastic. On high speed, it has a strange plastic smell which defeats the purpose of purifying air. Customer service is unreachable."
+  },
+  {
+    "product_name": "Havells Freshia AP-40 Air Purifier",
+    "category": "Air Purifiers",
+    "rating": 4,
+    "date": "2026-05-02",
+    "source": "Amazon",
+    "verified_purchase": false,
+    "helpful_votes": 1,
+    "raw_text": "Clean design and very silent sleep mode. But the replacement filter is extremely expensive and installation instructions were hard to follow."
+  }
+]
