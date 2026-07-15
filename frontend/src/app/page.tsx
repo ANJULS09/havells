@@ -12,7 +12,7 @@ import {
 
 // Types matching Backend schemas
 interface Product {
-  id: str;
+  id: string;
   name: string;
   category: string;
 }
